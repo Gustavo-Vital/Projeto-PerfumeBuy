@@ -1,0 +1,61 @@
+.perfum {
+    background-color: #fff;
+}
+
+.perfum__subtittle {
+    margin-left: 20px;
+    font-family: 'Montserrat', 'Sans-serif';
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+.perfum__image {
+    max-width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.perfum__tittle {
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Fraunces' ;
+}
+
+.tag {
+    position: relative;
+    bottom: 5px;
+    margin-left: 18px;
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+.perfum__price {
+    margin-left: 20px;
+    font-family: 'Fraunces' ;
+    font-size: 30px;
+    color: hsl(158, 36%, 37%) ;
+}
+
+.buy__perfum {
+    font-weight: bold;
+    margin-left: 20px;
+    font-size: 14px;
+    color: #fff;
+    font-family: 'Montserrat' ;
+    border-radius: 10px;
+    background-color: hsl(158, 36%, 37%) ;
+    padding: 16px 120px;
+    text-decoration: none;
+}
+
+.cart__price {
+    margin-left: 115px;
+    position: relative;
+    bottom: 17px;
+}
+
+
+    
+
+
+
