@@ -1,3 +1,4 @@
 # Projeto-PerfumeBuy
 
-Nesse projeto aprendi a fazer uma base de comprar um produto em um site
+Nesse projeto aprendi a fazer uma base de comprar um produto em um site.
+(Apenas em resolucao mobile)
